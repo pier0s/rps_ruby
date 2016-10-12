@@ -1,7 +1,7 @@
 # Rock, Paper, Scissors: Example solution for Version 1
 
 puts "Welcome to Rock, Paper, Scissors!"
-puts "hi all"
+puts "hi atom"
 puts "rock, paper, or scissors?"
 
 user_move = gets.chomp
